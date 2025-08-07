@@ -61,7 +61,7 @@ Got questions, feedback, or ideas?
 
 ## 🛠️ Project Status
 
-> ✔️ Stable version – running on over **5100 Discord servers**  
+> ✔️ Stable version – running on over **5100+ Discord servers**  
 > 🚧 Actively developed and maintained
 
 ---
