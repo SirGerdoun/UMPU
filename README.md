@@ -33,7 +33,7 @@ Information page of UMPU – a multifunctional Discord bot with a powerful dashb
 
 ---
 
-## 📸 Dashboard Screenshots
+## 📸 Dashboard and Music System Screenshots
 
 ![Dashboard](https://imgur.com/oGrahbv.png)  
 ![Music](https://i.imgur.com/uG3HiqZ.png)
